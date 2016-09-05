@@ -11,6 +11,7 @@ jupyter
 matplotlib
 nltk
 pandas
+pydotplus
 sklearn
 ```
 
@@ -19,3 +20,4 @@ sklearn
 * Chapter 4 - Naive Bayes
 * Chapter 5 - Logistic regression
 * Chapter 6 - Time Stamps and Financial Modeling
+* Chapter 7 - Extracting Meaning from Data
