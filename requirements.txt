@@ -2,4 +2,5 @@ jupyter
 matplotlib
 nltk
 pandas
+pydotplus
 sklearn
