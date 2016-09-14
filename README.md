@@ -21,3 +21,4 @@ sklearn
 * Chapter 5 - Logistic regression
 * Chapter 6 - Time Stamps and Financial Modeling
 * Chapter 7 - Extracting Meaning from Data
+* Chapter 8 - Recommendation Engines
